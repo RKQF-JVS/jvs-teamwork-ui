@@ -1,0 +1,93 @@
+export const config = {
+  propsDefault: {
+    label: 'label',
+    src: 'src',
+    icon: 'icon',
+  }
+}
+
+export const sidebarList = [{
+  extend:{
+    icon:'',
+    path:'',
+    label:'项目列表'
+  },
+  children:[{
+    extend:{
+      icon:'',
+      url:'',
+      path:'/project/list/my',
+      label:'我的项目'
+    }
+  },{
+    extend:{
+      icon:'',
+      url:'',
+      path:'/project/analysis',
+      label:'项目分析'
+    }
+  },{
+    extend:{
+      icon:'',
+      url:'',
+      path:'/project/list/collect',
+      label:'我的收藏'
+    }
+  },{
+    extend:{
+      icon:'',
+      url:'',
+      path:'/project/list/archive',
+      label:'已归档项目'
+    }
+  },{
+    extend:{
+      icon:'',
+      url:'',
+      path:'/project/list/delete',
+      label:'回收站'
+    }
+  },{
+    extend:{
+      icon:'',
+      url:'',
+      path:'/project/organization',
+      label:'我的组织'
+    }
+  }]
+},{
+  extend:{
+    icon:'',
+    path:'',
+    label:'基础设置'
+  },
+  children:[{
+    extend:{
+      icon:'',
+      path:'/project/template',
+      url:'',
+      label:'项目模板'
+    }
+  }]
+},{
+  extend:{
+    icon:'',
+    path:'',
+    label:'消息提醒'
+  },
+  children:[{
+    extend:{
+      icon:'',
+      path:'/project/notify/notice',
+      url:'',
+      label:'站内消息'
+    }
+  },{
+    extend:{
+      icon:'',
+      url:'',
+      path:'/project/notify/system',
+      label:'系统公告'
+    }
+  }]
+}]

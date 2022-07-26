@@ -1,0 +1,78 @@
+// 全局变量
+@import './variables.scss';
+// ele样式覆盖
+@import './element-ui.scss';
+// 顶部右侧显示
+@import './top.scss';
+// 导航标签
+@import './tags.scss';
+// 工具类函数
+@import './mixin.scss';
+// 侧面导航栏
+@import './sidebar.scss';
+// 动画
+@import './animate/vue-transition.scss';
+//适配
+@import './media.scss';
+//通用配置
+@import './normalize.scss';
+// 自定义cardbody样式
+@import './myCardBody.scss';
+// 基础样式文件
+@import './base.scss';
+// 任务样式文件
+@import './task.scss';
+a{
+  text-decoration: none;
+  color:#333;
+}
+*{
+  outline: none;
+}
+
+//tags 布局
+.lineBox{
+  /deep/ .el-tabs__nav{
+  display: flex;
+    height: 100%;
+  }
+}
+
+// 遮罩透明
+.v-modal{
+  // background: none!important;
+  // z-index: 0!important;
+}
+
+//Text
+.muted {
+  color: rgba(0, 0, 0, 0.45);
+  span{
+    font-size: 14px;
+  }
+  //font-weight: 400;
+}
+
+// 通用页面主体问题
+.page-body{
+  margin: 24px;
+}
+
+
+.el-scrollbar__wrap{
+  overflow-x: auto !important;
+  overflow-y: scroll !important;
+}
+
+.dorp-down-select-list{
+  .el-scrollbar__view{
+    padding: 0px 0px 6px;
+  }
+  .el-scrollbar__bar.is-vertical{
+    z-index: 10;
+  }
+}
+
+.collection-fill-icon{
+  color:#f4ea2a !important;
+}

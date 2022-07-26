@@ -1,0 +1,18 @@
+version: '3'
+services:
+  jvs-teamwork-ui:
+    build:
+      context: .
+    restart: always
+    container_name: jvs-teamwork-ui
+    image: jvs-teamwork-ui
+    networks:
+      - jvs_jvs
+    external_links:
+      - gateway
+    ports:
+      - 80:80
+
+networks:
+  jvs_jvs:
+    external: true
