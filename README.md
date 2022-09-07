@@ -68,6 +68,6 @@
 ### 技术交流与商务支持
 
 
-![image](https://user-images.githubusercontent.com/94048608/187455001-da23f80c-662d-4626-80fb-820bd0f77975.png)
+![image](https://user-images.githubusercontent.com/94048608/188836973-62a56b6b-6d56-4224-972c-1b4793faa841.png)
 
 
