@@ -38,6 +38,7 @@
 - 企业计划（项目管理）：http://teamwork.bctools.cn/
 - 企业邮筒（Web邮箱客户端）：http://mailbox.bctools.cn/
 - 规则引擎：http://jvs-rules.bctools.cn/
+- 逻辑引擎：http://logic.bctools.cn
 - 视频会议：http://meeting.bctools.cn/
 
 
@@ -83,7 +84,8 @@
 
 ### 技术交流与商务支持
 
-![群二维码](https://github.com/RKQF-JVS/jvs-teamwork-ui/assets/94048608/8ebdfb8f-f43c-494a-afcb-2ee2de2d053a)
+![群二维码](https://github.com/RKQF-JVS/jvs-teamwork-ui/assets/94048608/8c1a41d6-3c7f-41cc-baeb-3246dc4a4214)
+
 
 
 
