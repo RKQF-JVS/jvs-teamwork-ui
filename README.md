@@ -87,7 +87,8 @@ JVS是企业整体数字化快速转型的解决方案，企业计划在整体�
 
 ### 技术交流与商务支持
 
-![群二维码](https://github.com/RKQF-JVS/jvs-teamwork-ui/assets/94048608/8df8c8db-56d4-4191-8087-a59c0c97d7bc)
+![群二维码](https://github.com/RKQF-JVS/jvs-teamwork-ui/assets/94048608/8cede3ca-3d40-4c57-9a7b-3e8c072095ef)
+
 
 
 
