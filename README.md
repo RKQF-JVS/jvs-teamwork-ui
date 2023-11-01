@@ -1,7 +1,4 @@
-### 产品矩阵
 
-JVS是企业整体数字化快速转型的解决方案，企业计划在整体产品矩阵中用于企业团队协同任务执行，在整体的产品架构体系如下图所示
-![image](https://github.com/RKQF-JVS/jvs-teamwork/assets/94048608/e580067c-c380-47c5-8ed1-9e47fd039698)
 
 ### 项目概述
 
@@ -25,28 +22,19 @@ JVS是企业整体数字化快速转型的解决方案，企业计划在整体�
 业务前台后端地址：https://github.com/RKQF-JVS/jvs-teamwork
 
 
-## 体验地址与账号说明
-![image](https://user-images.githubusercontent.com/94048608/212477221-923dc994-f450-42c6-9a80-4898df7e3516.png)
+### 演示地址
 
-### 账号说明：
-
-- 普通用户端：体验者自有微信扫码登录
-- 管理端(全网共享)：testadmin 123456
-- 管理端+应用编辑：联系运营微信号 ruanjbz，开设独立环境与独立账号
-- 管理端+平台配置+应用编辑：联系运营微信号 ruanjbz，获取私有化部署文档与安装包
-### 地址说明：
-
-- 管理平台（含管理平台、低代码、数据智仓）：https://frame.bctools.cn/
+- 管理平台（含管理平台、低代码）：https://frame.bctools.cn/
+- 数据智仓（数据分析平台）：http://bi.bctools.cn/
 - 企业文档：http://knowledge.bctools.cn/
 - 企业计划（项目管理）：http://teamwork.bctools.cn/
 - 企业邮筒（Web邮箱客户端）：http://mailbox.bctools.cn/
-- 规则引擎：http://jvs-rules.bctools.cn/
-- 逻辑引擎：http://logic.bctools.cn
+- 规则引擎：http://rules.bctools.cn/
+- 逻辑引擎：http://logic.bctools.cn/
 - 视频会议：http://meeting.bctools.cn/
 
 
-**技术文档地址（微信登陆可查看）：**
-整体项目文档群 [点击跳转](http://knowledge.bctools.cn/#/view?id=dd37733c43c064ac1c4f1c2155e04ce6)
+试用账号：微信扫码即可登陆，如需要账号密码试用，请二维码联系我们
 
 
 ### 技术栈说明
@@ -85,12 +73,12 @@ JVS是企业整体数字化快速转型的解决方案，企业计划在整体�
 * 禁止在未备案的情况下，私自使用（包含自用与商用）
 
 
+
 ### 技术交流与商务支持
 
-![群二维码](https://github.com/RKQF-JVS/jvs-teamwork-ui/assets/94048608/8cede3ca-3d40-4c57-9a7b-3e8c072095ef)
+![输入图片说明](img/1030.png)
 
+如因人数限制无法加群时，可加运营同学拉入技术交流群
 
-
-
-
+![输入图片说明](https://foruda.gitee.com/images/1693376631879434922/54ec140e_10006021.png "屏幕截图")
 
