@@ -76,7 +76,8 @@
 
 ### 技术交流与商务支持
 
-![群二维码](https://github.com/RKQF-JVS/jvs-teamwork-ui/assets/94048608/8cd6d9dd-e598-46a4-853d-bfb35829eb09)
+![群二维码](https://github.com/RKQF-JVS/jvs-teamwork-ui/assets/94048608/413c3ce1-b364-458b-acca-014470bab0f2)
+
 
 
 如因人数限制无法加群时，可加运营同学拉入技术交流群
