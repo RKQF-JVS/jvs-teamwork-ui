@@ -76,7 +76,8 @@
 
 ### 技术交流与商务支持
 
-![群二维码](https://github.com/RKQF-JVS/jvs-teamwork-ui/assets/94048608/413c3ce1-b364-458b-acca-014470bab0f2)
+
+![群二维码](https://github.com/RKQF-JVS/jvs-teamwork-ui/assets/94048608/6df21e77-2d8d-4e6b-ab66-20e4f325b047)
 
 
 
