@@ -32,6 +32,7 @@
 - 规则引擎：http://rules.bctools.cn/
 - 逻辑引擎：http://logic.bctools.cn/
 - 视频会议：http://meeting.bctools.cn/
+- APS（智能排产）：https://aps.bctools.cn/
 
 
 试用账号：微信扫码即可登陆，如需要账号密码试用，请二维码联系我们
@@ -77,7 +78,8 @@
 ### 技术交流与商务支持
 
 
-![微信截图_20241009183836](https://github.com/user-attachments/assets/4b6ef62f-7d7f-44ca-82c5-39a5109cd07a)
+![微信图片_20250211100806](https://github.com/user-attachments/assets/bdda35c9-5d92-424a-b97d-9b62e3fbf2da)
+
 
 
 
