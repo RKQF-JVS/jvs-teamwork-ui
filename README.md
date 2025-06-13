@@ -77,7 +77,8 @@
 
 ### 技术交流与商务支持
 
-![微信图片_20250605141947](https://github.com/user-attachments/assets/9ecf2378-6a6a-4ac8-b781-18520f602bcf)
+![微信图片_20250613102005](https://github.com/user-attachments/assets/e970bb54-88dc-4396-b0a6-a9be8608e463)
+
 
 
 
