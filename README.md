@@ -77,7 +77,7 @@
 
 ### 技术交流与商务支持
 
-![微信图片_20250709090004](https://github.com/user-attachments/assets/871ce938-3da1-4f9a-b4c1-5bfaee85dfd4)
+<img width="231" height="376" alt="微信图片_20250716165805_3" src="https://github.com/user-attachments/assets/f011041c-69a9-4118-90b7-917bb86b9099" />
 
 
 
